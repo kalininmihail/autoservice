@@ -1,0 +1,19 @@
+{
+  "UserList": [
+    {
+      "Login": "123",
+      "Password": "123",
+      "IsAdmin": true
+    },
+    {
+      "Login": "321",
+      "Password": "123",
+      "IsAdmin": false
+    },
+    {
+      "Login": "allah",
+      "Password": "777",
+      "IsAdmin": false
+    }
+  ]
+}

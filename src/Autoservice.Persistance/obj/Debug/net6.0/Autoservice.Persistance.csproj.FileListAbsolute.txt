@@ -1,0 +1,14 @@
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\bin\Debug\net6.0\Autoservice.Persistance.deps.json
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\bin\Debug\net6.0\Autoservice.Persistance.runtimeconfig.json
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\bin\Debug\net6.0\Autoservice.Persistance.dll
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\bin\Debug\net6.0\Autoservice.Persistance.pdb
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.csproj.AssemblyReference.cache
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.AssemblyInfoInputs.cache
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.AssemblyInfo.cs
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.dll
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\refint\Autoservice.Persistance.dll
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.pdb
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\Autoservice.Persistance.genruntimeconfig.cache
+C:\Users\Borov\source\repos\Autoservice\src\Autoservice.Persistance\obj\Debug\net6.0\ref\Autoservice.Persistance.dll
